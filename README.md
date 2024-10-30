@@ -6,6 +6,17 @@ Welcome to the **Wallpapers Collection** repository! This repository is a curate
 
 Whether you're looking to personalize your desktop or laptop, this collection has a variety of styles and themes in high resolutions, optimized to look great on larger screens. Currently, all wallpapers are formatted exclusively for desktop/PC use.
 
+## Categories 📂
+
+Wallpapers are organized into the following categories:
+
+- **Abstract** 🎨: Unique and artistic patterns, gradients, and textures.
+- **Cars** 🚗: High-resolution images of stunning cars from classic to modern styles.
+- **Games** 🎮: Wallpapers from popular video games, concept art, and in-game scenery.
+- **Landscapes** 🌄: Featuring breathtaking landscapes, sunsets, mountains, and oceans.
+- **Linux** 🐧: Wallpapers inspired by Linux, open-source themes, and iconic mascots.
+- **Others** 📸: Various other themes that don’t fit into the main categories.
+
 ## How to Use
 
 1. **Browse**: Explore the folders to find your desired wallpaper.
